@@ -1,0 +1,127 @@
+/Users/alancel/Desktop/stego/test.wavnOpening  file..n(1-4): RIFF 
+136 0 0 0
+(5-8) Overall size: bytes:136, Kb:0 
+(9-12) Wave marker: WAVE
+(13-16) Fmt marker: fmt 
+16 0 0 0
+(17-20) Length of Fmt header: 16 
+1 0 
+(21-22) Format type: 1 PCM 
+1 0 
+(23-24) Channels: 1 
+128 187 0 0n(25-28) Sample rate: 48000
+0 119 1 0
+(29-32) Byte Rate: 96000 , Bit Rate:768000
+2 0 
+(33-34) Block Alignment: 2 
+16 0 
+(35-36) Bits per sample: 16 
+(37-40) Data Marker: data 
+100 0 0 0
+(41-44) Size of data chunk: 100 
+Number of samples:50 
+Size of each sample:2 bytes
+Approx.Duration in seconds=0.001417
+Approx.Duration in h:m:s=0:0:0.1
+Dump sample data? Y/N?nn.Valid range for data values : -32768 to 32767 
+==========Sample 1 / 50=============
+Channel#1 : 0  | 
+==========Sample 2 / 50=============
+Channel#1 : 1304  | 
+==========Sample 3 / 50=============
+Channel#1 : 2586  | 
+==========Sample 4 / 50=============
+Channel#1 : 3824  | 
+==========Sample 5 / 50=============
+Channel#1 : 4997  | 
+==========Sample 6 / 50=============
+Channel#1 : 6084  | 
+==========Sample 7 / 50=============
+Channel#1 : 7068  | 
+==========Sample 8 / 50=============
+Channel#1 : 7930  | 
+==========Sample 9 / 50=============
+Channel#1 : 8657  | 
+==========Sample 10 / 50=============
+Channel#1 : 9236  | 
+==========Sample 11 / 50=============
+Channel#1 : 9657  | 
+==========Sample 12 / 50=============
+Channel#1 : 9913  | 
+==========Sample 13 / 50=============
+Channel#1 : 9999  | 
+==========Sample 14 / 50=============
+Channel#1 : 9915  | 
+==========Sample 15 / 50=============
+Channel#1 : 9661  | 
+==========Sample 16 / 50=============
+Channel#1 : 9242  | 
+==========Sample 17 / 50=============
+Channel#1 : 8665  | 
+==========Sample 18 / 50=============
+Channel#1 : 7940  | 
+==========Sample 19 / 50=============
+Channel#1 : 7079  | 
+==========Sample 20 / 50=============
+Channel#1 : 6097  | 
+==========Sample 21 / 50=============
+Channel#1 : 5011  | 
+==========Sample 22 / 50=============
+Channel#1 : 3839  | 
+==========Sample 23 / 50=============
+Channel#1 : 2602  | 
+==========Sample 24 / 50=============
+Channel#1 : 1320  | 
+==========Sample 25 / 50=============
+Channel#1 : 15  | 
+==========Sample 26 / 50=============
+Channel#1 : -1288  | 
+==========Sample 27 / 50=============
+Channel#1 : -2571  | 
+==========Sample 28 / 50=============
+Channel#1 : -3810  | 
+==========Sample 29 / 50=============
+Channel#1 : -4983  | 
+==========Sample 30 / 50=============
+Channel#1 : -6072  | 
+==========Sample 31 / 50=============
+Channel#1 : -7056  | 
+==========Sample 32 / 50=============
+Channel#1 : -7920  | 
+==========Sample 33 / 50=============
+Channel#1 : -8649  | 
+==========Sample 34 / 50=============
+Channel#1 : -9230  | 
+==========Sample 35 / 50=============
+Channel#1 : -9653  | 
+==========Sample 36 / 50=============
+Channel#1 : -9911  | 
+==========Sample 37 / 50=============
+Channel#1 : -9999  | 
+==========Sample 38 / 50=============
+Channel#1 : -9917  | 
+==========Sample 39 / 50=============
+Channel#1 : -9665  | 
+==========Sample 40 / 50=============
+Channel#1 : -9248  | 
+==========Sample 41 / 50=============
+Channel#1 : -8673  | 
+==========Sample 42 / 50=============
+Channel#1 : -7950  | 
+==========Sample 43 / 50=============
+Channel#1 : -7090  | 
+==========Sample 44 / 50=============
+Channel#1 : -6110  | 
+==========Sample 45 / 50=============
+Channel#1 : -5025  | 
+==========Sample 46 / 50=============
+Channel#1 : -3854  | 
+==========Sample 47 / 50=============
+Channel#1 : -2617  | 
+==========Sample 48 / 50=============
+Channel#1 : -1336  | 
+==========Sample 49 / 50=============
+Channel#1 : -31  | 
+==========Sample 50 / 50=============
+Channel#1 : 1273  | 
+Closing file..
