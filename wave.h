@@ -27,3 +27,6 @@ struct HEADER {
     unsigned int data_size;                     // NumSamples * NumChannels * BitsPerSample/8 - size of the next chunk that will be read
 
 };
+
+
+char *message_encode(char *str, int i, int *arr);
